@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.github.com/DotNetDoodle/DotNetDoodle.Identity.MongoDB/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DotNetDoodle/DotNetDoodle.Identity.MongoDB</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <tags>Identity AspNet IdentityAspNet MongoDB Membership</tags>
+  </metadata>
+</package>

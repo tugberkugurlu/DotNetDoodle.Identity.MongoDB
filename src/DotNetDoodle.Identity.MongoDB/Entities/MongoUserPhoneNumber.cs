@@ -6,7 +6,7 @@ namespace DotNetDoodle.Identity.MongoDB.Entities
     public class MongoUserPhoneNumber : MongoUserContactRecord
     {
         [BsonConstructor]
-        public MongoUserPhoneNumber() : base(null)
+        private MongoUserPhoneNumber() : base(null)
         {
         }
         
